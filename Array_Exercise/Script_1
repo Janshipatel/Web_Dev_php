@@ -1,0 +1,4 @@
+<?php
+$my_fav_color=array("red","pink","blue");
+print_r($my_fav_color);
+?>
